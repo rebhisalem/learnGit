@@ -1,6 +1,6 @@
 class Main{
 	public static void Main(String[] args){
 		System.out.println("hello there!");
-		System.out.println("INSAT");
+		System.out.println("Am alive");
 	}
 }
